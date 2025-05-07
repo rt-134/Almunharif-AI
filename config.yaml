@@ -1,0 +1,3 @@
+bot_token: "توكن تيليغرام هنا"
+gpt_api_key: "API Key من OpenAI هنا"
+model: "gpt-4"
